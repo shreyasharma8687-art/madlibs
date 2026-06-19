@@ -1,0 +1,12 @@
+
+name = input("Enter a name: ")
+animal = input("Enter an animal: ")
+city = input("Enter a city: ")
+food = input("Enter a food: ")
+color = input("Enter a color: ")
+
+
+print("One day , " + name + " was walking in " +city+ ".")
+print("Suddenly , a " + color + " " + animal + " appeared .")
+print("The " + animal + "  was eating " + food + " .")
+print( name +  " was surprised")
